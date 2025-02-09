@@ -1,0 +1,11 @@
+
+msg_data/
+msg_chroma_db/
+
+myRAGEnv/
+
+data/*
+chroma_db/*
+
+!data/.gitkeep
+!chroma_db/.gitkeep
