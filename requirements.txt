@@ -1,0 +1,11 @@
+langchain
+sentence-transformers
+chromadb
+transformers
+huggingface-hub
+openai
+python-dotenv
+streamlit
+gradio
+PyPDF2
+docx2pdf
